@@ -1,0 +1,9 @@
+Họ và tên: Nguyễn Gia Khang
+MSSV: 31251021882
+MLHP: 26C1INF50900706
+Cấu trúc và cách chạy: Trong repo sẽ có 4 bài tập lần lượt là Bài 1,2,3 và 4.
+Mỗi file bài tập ở hàm Main đều được đặt tên theo cú pháp sau: Main+[thứ tự bài].
+Ví dụ cho bài 1, ta sẽ có Main1, và tương tự với file bài 2,3,4.
+Để chạy được code thì phải bỏ [thứ tự bài] và tránh để >1 file đều có hàm main
+vì sẽ gây xung đột hàm và đoạn code không được thực thi.
+Độ phức tạp và các ca kiểm thử đã được trình bày rõ bên trong file word.
